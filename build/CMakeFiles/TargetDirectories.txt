@@ -1,0 +1,5 @@
+C:/Users/RaV/Desktop/zadanie_rekrutacyjne_1/programs/IMU_simulator/build/CMakeFiles/IMU_simulator.dir
+C:/Users/RaV/Desktop/zadanie_rekrutacyjne_1/programs/IMU_simulator/build/CMakeFiles/package.dir
+C:/Users/RaV/Desktop/zadanie_rekrutacyjne_1/programs/IMU_simulator/build/CMakeFiles/package_source.dir
+C:/Users/RaV/Desktop/zadanie_rekrutacyjne_1/programs/IMU_simulator/build/CMakeFiles/edit_cache.dir
+C:/Users/RaV/Desktop/zadanie_rekrutacyjne_1/programs/IMU_simulator/build/CMakeFiles/rebuild_cache.dir
