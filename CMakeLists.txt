@@ -1,3 +1,12 @@
 cmake_minimum_required(VERSION 3.10)
 project(IMU_simulator)
-add_executable(${PROJECT_NAME} src/main.cpp)
+
+# Our Project
+set(SOURCE_FILES
+    src/main.cpp
+    src/IMU.cpp
+    src/IMUsimulator.cpp
+    src/ReadCSV.cpp
+    src/SocketClient.cpp)
+
+add_executable(${PROJECT_NAME} ${SOURCE_FILES})
