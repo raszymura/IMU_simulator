@@ -148,6 +148,102 @@ IMU_simulator/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\IMU_simulator.dir\build.make CMakeFiles/IMU_simulator.dir/build
 .PHONY : IMU_simulator/fast
 
+src/IMU.obj: src/IMU.cpp.obj
+.PHONY : src/IMU.obj
+
+# target to build an object file
+src/IMU.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\IMU_simulator.dir\build.make CMakeFiles/IMU_simulator.dir/src/IMU.cpp.obj
+.PHONY : src/IMU.cpp.obj
+
+src/IMU.i: src/IMU.cpp.i
+.PHONY : src/IMU.i
+
+# target to preprocess a source file
+src/IMU.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\IMU_simulator.dir\build.make CMakeFiles/IMU_simulator.dir/src/IMU.cpp.i
+.PHONY : src/IMU.cpp.i
+
+src/IMU.s: src/IMU.cpp.s
+.PHONY : src/IMU.s
+
+# target to generate assembly for a file
+src/IMU.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\IMU_simulator.dir\build.make CMakeFiles/IMU_simulator.dir/src/IMU.cpp.s
+.PHONY : src/IMU.cpp.s
+
+src/IMUsimulator.obj: src/IMUsimulator.cpp.obj
+.PHONY : src/IMUsimulator.obj
+
+# target to build an object file
+src/IMUsimulator.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\IMU_simulator.dir\build.make CMakeFiles/IMU_simulator.dir/src/IMUsimulator.cpp.obj
+.PHONY : src/IMUsimulator.cpp.obj
+
+src/IMUsimulator.i: src/IMUsimulator.cpp.i
+.PHONY : src/IMUsimulator.i
+
+# target to preprocess a source file
+src/IMUsimulator.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\IMU_simulator.dir\build.make CMakeFiles/IMU_simulator.dir/src/IMUsimulator.cpp.i
+.PHONY : src/IMUsimulator.cpp.i
+
+src/IMUsimulator.s: src/IMUsimulator.cpp.s
+.PHONY : src/IMUsimulator.s
+
+# target to generate assembly for a file
+src/IMUsimulator.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\IMU_simulator.dir\build.make CMakeFiles/IMU_simulator.dir/src/IMUsimulator.cpp.s
+.PHONY : src/IMUsimulator.cpp.s
+
+src/ReadCSV.obj: src/ReadCSV.cpp.obj
+.PHONY : src/ReadCSV.obj
+
+# target to build an object file
+src/ReadCSV.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\IMU_simulator.dir\build.make CMakeFiles/IMU_simulator.dir/src/ReadCSV.cpp.obj
+.PHONY : src/ReadCSV.cpp.obj
+
+src/ReadCSV.i: src/ReadCSV.cpp.i
+.PHONY : src/ReadCSV.i
+
+# target to preprocess a source file
+src/ReadCSV.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\IMU_simulator.dir\build.make CMakeFiles/IMU_simulator.dir/src/ReadCSV.cpp.i
+.PHONY : src/ReadCSV.cpp.i
+
+src/ReadCSV.s: src/ReadCSV.cpp.s
+.PHONY : src/ReadCSV.s
+
+# target to generate assembly for a file
+src/ReadCSV.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\IMU_simulator.dir\build.make CMakeFiles/IMU_simulator.dir/src/ReadCSV.cpp.s
+.PHONY : src/ReadCSV.cpp.s
+
+src/SocketClient.obj: src/SocketClient.cpp.obj
+.PHONY : src/SocketClient.obj
+
+# target to build an object file
+src/SocketClient.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\IMU_simulator.dir\build.make CMakeFiles/IMU_simulator.dir/src/SocketClient.cpp.obj
+.PHONY : src/SocketClient.cpp.obj
+
+src/SocketClient.i: src/SocketClient.cpp.i
+.PHONY : src/SocketClient.i
+
+# target to preprocess a source file
+src/SocketClient.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\IMU_simulator.dir\build.make CMakeFiles/IMU_simulator.dir/src/SocketClient.cpp.i
+.PHONY : src/SocketClient.cpp.i
+
+src/SocketClient.s: src/SocketClient.cpp.s
+.PHONY : src/SocketClient.s
+
+# target to generate assembly for a file
+src/SocketClient.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\IMU_simulator.dir\build.make CMakeFiles/IMU_simulator.dir/src/SocketClient.cpp.s
+.PHONY : src/SocketClient.cpp.s
+
 src/main.obj: src/main.cpp.obj
 .PHONY : src/main.obj
 
@@ -183,6 +279,18 @@ help:
 	@echo ... package_source
 	@echo ... rebuild_cache
 	@echo ... IMU_simulator
+	@echo ... src/IMU.obj
+	@echo ... src/IMU.i
+	@echo ... src/IMU.s
+	@echo ... src/IMUsimulator.obj
+	@echo ... src/IMUsimulator.i
+	@echo ... src/IMUsimulator.s
+	@echo ... src/ReadCSV.obj
+	@echo ... src/ReadCSV.i
+	@echo ... src/ReadCSV.s
+	@echo ... src/SocketClient.obj
+	@echo ... src/SocketClient.i
+	@echo ... src/SocketClient.s
 	@echo ... src/main.obj
 	@echo ... src/main.i
 	@echo ... src/main.s

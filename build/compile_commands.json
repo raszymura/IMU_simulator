@@ -1,8 +1,32 @@
 [
 {
   "directory": "C:/Users/RaV/Desktop/zadanie_rekrutacyjne_1/programs/IMU_simulator/build",
-  "command": "C:\\PROGRA~1\\MinGW\\bin\\G__~1.EXE   -g -o CMakeFiles\\IMU_simulator.dir\\src\\main.cpp.obj -c C:\\Users\\RaV\\Desktop\\zadanie_rekrutacyjne_1\\programs\\IMU_simulator\\src\\main.cpp",
+  "command": "C:\\PROGRA~1\\MinGW\\bin\\G__~1.EXE  @CMakeFiles/IMU_simulator.dir/includes_CXX.rsp -g -o CMakeFiles\\IMU_simulator.dir\\src\\main.cpp.obj -c C:\\Users\\RaV\\Desktop\\zadanie_rekrutacyjne_1\\programs\\IMU_simulator\\src\\main.cpp",
   "file": "C:/Users/RaV/Desktop/zadanie_rekrutacyjne_1/programs/IMU_simulator/src/main.cpp",
   "output": "CMakeFiles/IMU_simulator.dir/src/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/RaV/Desktop/zadanie_rekrutacyjne_1/programs/IMU_simulator/build",
+  "command": "C:\\PROGRA~1\\MinGW\\bin\\G__~1.EXE  @CMakeFiles/IMU_simulator.dir/includes_CXX.rsp -g -o CMakeFiles\\IMU_simulator.dir\\src\\IMU.cpp.obj -c C:\\Users\\RaV\\Desktop\\zadanie_rekrutacyjne_1\\programs\\IMU_simulator\\src\\IMU.cpp",
+  "file": "C:/Users/RaV/Desktop/zadanie_rekrutacyjne_1/programs/IMU_simulator/src/IMU.cpp",
+  "output": "CMakeFiles/IMU_simulator.dir/src/IMU.cpp.obj"
+},
+{
+  "directory": "C:/Users/RaV/Desktop/zadanie_rekrutacyjne_1/programs/IMU_simulator/build",
+  "command": "C:\\PROGRA~1\\MinGW\\bin\\G__~1.EXE  @CMakeFiles/IMU_simulator.dir/includes_CXX.rsp -g -o CMakeFiles\\IMU_simulator.dir\\src\\IMUsimulator.cpp.obj -c C:\\Users\\RaV\\Desktop\\zadanie_rekrutacyjne_1\\programs\\IMU_simulator\\src\\IMUsimulator.cpp",
+  "file": "C:/Users/RaV/Desktop/zadanie_rekrutacyjne_1/programs/IMU_simulator/src/IMUsimulator.cpp",
+  "output": "CMakeFiles/IMU_simulator.dir/src/IMUsimulator.cpp.obj"
+},
+{
+  "directory": "C:/Users/RaV/Desktop/zadanie_rekrutacyjne_1/programs/IMU_simulator/build",
+  "command": "C:\\PROGRA~1\\MinGW\\bin\\G__~1.EXE  @CMakeFiles/IMU_simulator.dir/includes_CXX.rsp -g -o CMakeFiles\\IMU_simulator.dir\\src\\ReadCSV.cpp.obj -c C:\\Users\\RaV\\Desktop\\zadanie_rekrutacyjne_1\\programs\\IMU_simulator\\src\\ReadCSV.cpp",
+  "file": "C:/Users/RaV/Desktop/zadanie_rekrutacyjne_1/programs/IMU_simulator/src/ReadCSV.cpp",
+  "output": "CMakeFiles/IMU_simulator.dir/src/ReadCSV.cpp.obj"
+},
+{
+  "directory": "C:/Users/RaV/Desktop/zadanie_rekrutacyjne_1/programs/IMU_simulator/build",
+  "command": "C:\\PROGRA~1\\MinGW\\bin\\G__~1.EXE  @CMakeFiles/IMU_simulator.dir/includes_CXX.rsp -g -o CMakeFiles\\IMU_simulator.dir\\src\\SocketClient.cpp.obj -c C:\\Users\\RaV\\Desktop\\zadanie_rekrutacyjne_1\\programs\\IMU_simulator\\src\\SocketClient.cpp",
+  "file": "C:/Users/RaV/Desktop/zadanie_rekrutacyjne_1/programs/IMU_simulator/src/SocketClient.cpp",
+  "output": "CMakeFiles/IMU_simulator.dir/src/SocketClient.cpp.obj"
 }
 ]

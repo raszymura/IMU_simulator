@@ -1,3 +1,24 @@
+#pragma once
+
+#include <iostream>
+#include <fstream>
+#include <sstream>
+#include <string>
+
+#include "IMU.h"
+
+class ReadCSV{
+private:
+    std::ifstream file;
+    std::string line;
+    bool firstLine; // Flag to skip the first line
+
+public:
+    ReadCSV(const std::string &filename);
+    ~ReadCSV();
+    bool readData(IMUData &imuData);
+};
+
 /*
 The data in the .csv file is stored as follows:
 
@@ -21,24 +42,3 @@ The data was saved with:
 - accelerometer measurement range: 2.0g
 - gyroscope measurement range: 250dps (Degrees per Second)
 */
-
-#pragma once
-
-#include <iostream>
-#include <fstream>
-#include <sstream>
-#include <string>
-
-#include "IMU.h"
-
-class ReadCSV{
-private:
-    std::ifstream file;
-    std::string line;
-    bool firstLine; // Flag to skip the first line
-
-public:
-    ReadCSV(const std::string &filename);
-    ~ReadCSV();
-    bool readData(IMUData &imuData);
-};

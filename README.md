@@ -16,16 +16,16 @@ GCC
 Cmake
 
 ## Clone the repository
-git clone https://github.com/raszymura/IMU_simulator
+`git clone https://github.com/raszymura/IMU_simulator`
 
 ## Navigate to the project directory
-cd IMU_simulator
-cd build
+`cd IMU_simulator`
+`cd build`
 
 ## Compile the code
-make
+`make`
 
 ## Run program
-cd IMU_simulator
-cd build
-.\IMU_simulator
+`cd IMU_simulator`
+`cd build`
+`.\IMU_simulator`

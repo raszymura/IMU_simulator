@@ -1,4 +1,12 @@
 file(REMOVE_RECURSE
+  "CMakeFiles/IMU_simulator.dir/src/IMU.cpp.obj"
+  "CMakeFiles/IMU_simulator.dir/src/IMU.cpp.obj.d"
+  "CMakeFiles/IMU_simulator.dir/src/IMUsimulator.cpp.obj"
+  "CMakeFiles/IMU_simulator.dir/src/IMUsimulator.cpp.obj.d"
+  "CMakeFiles/IMU_simulator.dir/src/ReadCSV.cpp.obj"
+  "CMakeFiles/IMU_simulator.dir/src/ReadCSV.cpp.obj.d"
+  "CMakeFiles/IMU_simulator.dir/src/SocketClient.cpp.obj"
+  "CMakeFiles/IMU_simulator.dir/src/SocketClient.cpp.obj.d"
   "CMakeFiles/IMU_simulator.dir/src/main.cpp.obj"
   "CMakeFiles/IMU_simulator.dir/src/main.cpp.obj.d"
   "IMU_simulator.exe"

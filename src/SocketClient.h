@@ -4,6 +4,7 @@
 #include <asio.hpp>
 #include "IMU.h"
 
+
 class SocketClient {
 private:
     asio::io_context ioContext;
@@ -13,8 +14,9 @@ public:
     SocketClient(const std::string& serverAddress, const std::string& serverPort);
     ~SocketClient();
 
-    bool isConnected();
+    //bool isConnected();
     
     void sendData(const IMUData& imuData);
     void sendRegisters(const IMURegisters& imuRegisters);
+    void sendEND();
 };
