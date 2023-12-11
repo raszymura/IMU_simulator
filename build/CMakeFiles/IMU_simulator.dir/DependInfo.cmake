@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "C:/Users/RaV/Desktop/zadanie_rekrutacyjne_1/programs/IMU_simulator/src/IMU.cpp" "CMakeFiles/IMU_simulator.dir/src/IMU.cpp.obj" "gcc" "CMakeFiles/IMU_simulator.dir/src/IMU.cpp.obj.d"
+  "C:/Users/RaV/Desktop/zadanie_rekrutacyjne_1/programs/IMU_simulator/src/IMUcsv.cpp" "CMakeFiles/IMU_simulator.dir/src/IMUcsv.cpp.obj" "gcc" "CMakeFiles/IMU_simulator.dir/src/IMUcsv.cpp.obj.d"
   "C:/Users/RaV/Desktop/zadanie_rekrutacyjne_1/programs/IMU_simulator/src/IMUsimulator.cpp" "CMakeFiles/IMU_simulator.dir/src/IMUsimulator.cpp.obj" "gcc" "CMakeFiles/IMU_simulator.dir/src/IMUsimulator.cpp.obj.d"
   "C:/Users/RaV/Desktop/zadanie_rekrutacyjne_1/programs/IMU_simulator/src/ReadCSV.cpp" "CMakeFiles/IMU_simulator.dir/src/ReadCSV.cpp.obj" "gcc" "CMakeFiles/IMU_simulator.dir/src/ReadCSV.cpp.obj.d"
   "C:/Users/RaV/Desktop/zadanie_rekrutacyjne_1/programs/IMU_simulator/src/SocketClient.cpp" "CMakeFiles/IMU_simulator.dir/src/SocketClient.cpp.obj" "gcc" "CMakeFiles/IMU_simulator.dir/src/SocketClient.cpp.obj.d"

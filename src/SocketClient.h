@@ -13,8 +13,6 @@ private:
 public:
     SocketClient(const std::string& serverAddress, const std::string& serverPort);
     ~SocketClient();
-
-    //bool isConnected();
     
     void sendData(const IMUData& imuData);
     void sendRegisters(const IMURegisters& imuRegisters);

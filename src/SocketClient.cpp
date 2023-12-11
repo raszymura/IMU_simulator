@@ -19,10 +19,6 @@ SocketClient::~SocketClient() {
     }
 }
 
-/* bool SocketClient::isConnected() {
-    return socket.is_open();
-}*/
-
 void SocketClient::sendRegisters(const IMURegisters& imuRegisters) {
     try {
         // Serialization

@@ -148,29 +148,29 @@ IMU_simulator/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\IMU_simulator.dir\build.make CMakeFiles/IMU_simulator.dir/build
 .PHONY : IMU_simulator/fast
 
-src/IMU.obj: src/IMU.cpp.obj
-.PHONY : src/IMU.obj
+src/IMUcsv.obj: src/IMUcsv.cpp.obj
+.PHONY : src/IMUcsv.obj
 
 # target to build an object file
-src/IMU.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\IMU_simulator.dir\build.make CMakeFiles/IMU_simulator.dir/src/IMU.cpp.obj
-.PHONY : src/IMU.cpp.obj
+src/IMUcsv.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\IMU_simulator.dir\build.make CMakeFiles/IMU_simulator.dir/src/IMUcsv.cpp.obj
+.PHONY : src/IMUcsv.cpp.obj
 
-src/IMU.i: src/IMU.cpp.i
-.PHONY : src/IMU.i
+src/IMUcsv.i: src/IMUcsv.cpp.i
+.PHONY : src/IMUcsv.i
 
 # target to preprocess a source file
-src/IMU.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\IMU_simulator.dir\build.make CMakeFiles/IMU_simulator.dir/src/IMU.cpp.i
-.PHONY : src/IMU.cpp.i
+src/IMUcsv.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\IMU_simulator.dir\build.make CMakeFiles/IMU_simulator.dir/src/IMUcsv.cpp.i
+.PHONY : src/IMUcsv.cpp.i
 
-src/IMU.s: src/IMU.cpp.s
-.PHONY : src/IMU.s
+src/IMUcsv.s: src/IMUcsv.cpp.s
+.PHONY : src/IMUcsv.s
 
 # target to generate assembly for a file
-src/IMU.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\IMU_simulator.dir\build.make CMakeFiles/IMU_simulator.dir/src/IMU.cpp.s
-.PHONY : src/IMU.cpp.s
+src/IMUcsv.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\IMU_simulator.dir\build.make CMakeFiles/IMU_simulator.dir/src/IMUcsv.cpp.s
+.PHONY : src/IMUcsv.cpp.s
 
 src/IMUsimulator.obj: src/IMUsimulator.cpp.obj
 .PHONY : src/IMUsimulator.obj
@@ -279,9 +279,9 @@ help:
 	@echo ... package_source
 	@echo ... rebuild_cache
 	@echo ... IMU_simulator
-	@echo ... src/IMU.obj
-	@echo ... src/IMU.i
-	@echo ... src/IMU.s
+	@echo ... src/IMUcsv.obj
+	@echo ... src/IMUcsv.i
+	@echo ... src/IMUcsv.s
 	@echo ... src/IMUsimulator.obj
 	@echo ... src/IMUsimulator.i
 	@echo ... src/IMUsimulator.s

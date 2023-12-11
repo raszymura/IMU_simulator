@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/IMU_simulator.dir/src/IMU.cpp.obj"
-  "CMakeFiles/IMU_simulator.dir/src/IMU.cpp.obj.d"
+  "CMakeFiles/IMU_simulator.dir/src/IMUcsv.cpp.obj"
+  "CMakeFiles/IMU_simulator.dir/src/IMUcsv.cpp.obj.d"
   "CMakeFiles/IMU_simulator.dir/src/IMUsimulator.cpp.obj"
   "CMakeFiles/IMU_simulator.dir/src/IMUsimulator.cpp.obj.d"
   "CMakeFiles/IMU_simulator.dir/src/ReadCSV.cpp.obj"

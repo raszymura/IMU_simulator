@@ -83,26 +83,11 @@ CMakeFiles/IMU_simulator.dir/src/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/IMU_simulator.dir/src/main.cpp.s"
 	C:\PROGRA~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\RaV\Desktop\zadanie_rekrutacyjne_1\programs\IMU_simulator\src\main.cpp -o CMakeFiles\IMU_simulator.dir\src\main.cpp.s
 
-CMakeFiles/IMU_simulator.dir/src/IMU.cpp.obj: CMakeFiles/IMU_simulator.dir/flags.make
-CMakeFiles/IMU_simulator.dir/src/IMU.cpp.obj: CMakeFiles/IMU_simulator.dir/includes_CXX.rsp
-CMakeFiles/IMU_simulator.dir/src/IMU.cpp.obj: C:/Users/RaV/Desktop/zadanie_rekrutacyjne_1/programs/IMU_simulator/src/IMU.cpp
-CMakeFiles/IMU_simulator.dir/src/IMU.cpp.obj: CMakeFiles/IMU_simulator.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\RaV\Desktop\zadanie_rekrutacyjne_1\programs\IMU_simulator\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/IMU_simulator.dir/src/IMU.cpp.obj"
-	C:\PROGRA~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/IMU_simulator.dir/src/IMU.cpp.obj -MF CMakeFiles\IMU_simulator.dir\src\IMU.cpp.obj.d -o CMakeFiles\IMU_simulator.dir\src\IMU.cpp.obj -c C:\Users\RaV\Desktop\zadanie_rekrutacyjne_1\programs\IMU_simulator\src\IMU.cpp
-
-CMakeFiles/IMU_simulator.dir/src/IMU.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/IMU_simulator.dir/src/IMU.cpp.i"
-	C:\PROGRA~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\RaV\Desktop\zadanie_rekrutacyjne_1\programs\IMU_simulator\src\IMU.cpp > CMakeFiles\IMU_simulator.dir\src\IMU.cpp.i
-
-CMakeFiles/IMU_simulator.dir/src/IMU.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/IMU_simulator.dir/src/IMU.cpp.s"
-	C:\PROGRA~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\RaV\Desktop\zadanie_rekrutacyjne_1\programs\IMU_simulator\src\IMU.cpp -o CMakeFiles\IMU_simulator.dir\src\IMU.cpp.s
-
 CMakeFiles/IMU_simulator.dir/src/IMUsimulator.cpp.obj: CMakeFiles/IMU_simulator.dir/flags.make
 CMakeFiles/IMU_simulator.dir/src/IMUsimulator.cpp.obj: CMakeFiles/IMU_simulator.dir/includes_CXX.rsp
 CMakeFiles/IMU_simulator.dir/src/IMUsimulator.cpp.obj: C:/Users/RaV/Desktop/zadanie_rekrutacyjne_1/programs/IMU_simulator/src/IMUsimulator.cpp
 CMakeFiles/IMU_simulator.dir/src/IMUsimulator.cpp.obj: CMakeFiles/IMU_simulator.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\RaV\Desktop\zadanie_rekrutacyjne_1\programs\IMU_simulator\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/IMU_simulator.dir/src/IMUsimulator.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\RaV\Desktop\zadanie_rekrutacyjne_1\programs\IMU_simulator\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/IMU_simulator.dir/src/IMUsimulator.cpp.obj"
 	C:\PROGRA~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/IMU_simulator.dir/src/IMUsimulator.cpp.obj -MF CMakeFiles\IMU_simulator.dir\src\IMUsimulator.cpp.obj.d -o CMakeFiles\IMU_simulator.dir\src\IMUsimulator.cpp.obj -c C:\Users\RaV\Desktop\zadanie_rekrutacyjne_1\programs\IMU_simulator\src\IMUsimulator.cpp
 
 CMakeFiles/IMU_simulator.dir/src/IMUsimulator.cpp.i: cmake_force
@@ -117,7 +102,7 @@ CMakeFiles/IMU_simulator.dir/src/ReadCSV.cpp.obj: CMakeFiles/IMU_simulator.dir/f
 CMakeFiles/IMU_simulator.dir/src/ReadCSV.cpp.obj: CMakeFiles/IMU_simulator.dir/includes_CXX.rsp
 CMakeFiles/IMU_simulator.dir/src/ReadCSV.cpp.obj: C:/Users/RaV/Desktop/zadanie_rekrutacyjne_1/programs/IMU_simulator/src/ReadCSV.cpp
 CMakeFiles/IMU_simulator.dir/src/ReadCSV.cpp.obj: CMakeFiles/IMU_simulator.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\RaV\Desktop\zadanie_rekrutacyjne_1\programs\IMU_simulator\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/IMU_simulator.dir/src/ReadCSV.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\RaV\Desktop\zadanie_rekrutacyjne_1\programs\IMU_simulator\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/IMU_simulator.dir/src/ReadCSV.cpp.obj"
 	C:\PROGRA~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/IMU_simulator.dir/src/ReadCSV.cpp.obj -MF CMakeFiles\IMU_simulator.dir\src\ReadCSV.cpp.obj.d -o CMakeFiles\IMU_simulator.dir\src\ReadCSV.cpp.obj -c C:\Users\RaV\Desktop\zadanie_rekrutacyjne_1\programs\IMU_simulator\src\ReadCSV.cpp
 
 CMakeFiles/IMU_simulator.dir/src/ReadCSV.cpp.i: cmake_force
@@ -127,6 +112,21 @@ CMakeFiles/IMU_simulator.dir/src/ReadCSV.cpp.i: cmake_force
 CMakeFiles/IMU_simulator.dir/src/ReadCSV.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/IMU_simulator.dir/src/ReadCSV.cpp.s"
 	C:\PROGRA~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\RaV\Desktop\zadanie_rekrutacyjne_1\programs\IMU_simulator\src\ReadCSV.cpp -o CMakeFiles\IMU_simulator.dir\src\ReadCSV.cpp.s
+
+CMakeFiles/IMU_simulator.dir/src/IMUcsv.cpp.obj: CMakeFiles/IMU_simulator.dir/flags.make
+CMakeFiles/IMU_simulator.dir/src/IMUcsv.cpp.obj: CMakeFiles/IMU_simulator.dir/includes_CXX.rsp
+CMakeFiles/IMU_simulator.dir/src/IMUcsv.cpp.obj: C:/Users/RaV/Desktop/zadanie_rekrutacyjne_1/programs/IMU_simulator/src/IMUcsv.cpp
+CMakeFiles/IMU_simulator.dir/src/IMUcsv.cpp.obj: CMakeFiles/IMU_simulator.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\RaV\Desktop\zadanie_rekrutacyjne_1\programs\IMU_simulator\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/IMU_simulator.dir/src/IMUcsv.cpp.obj"
+	C:\PROGRA~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/IMU_simulator.dir/src/IMUcsv.cpp.obj -MF CMakeFiles\IMU_simulator.dir\src\IMUcsv.cpp.obj.d -o CMakeFiles\IMU_simulator.dir\src\IMUcsv.cpp.obj -c C:\Users\RaV\Desktop\zadanie_rekrutacyjne_1\programs\IMU_simulator\src\IMUcsv.cpp
+
+CMakeFiles/IMU_simulator.dir/src/IMUcsv.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/IMU_simulator.dir/src/IMUcsv.cpp.i"
+	C:\PROGRA~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\RaV\Desktop\zadanie_rekrutacyjne_1\programs\IMU_simulator\src\IMUcsv.cpp > CMakeFiles\IMU_simulator.dir\src\IMUcsv.cpp.i
+
+CMakeFiles/IMU_simulator.dir/src/IMUcsv.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/IMU_simulator.dir/src/IMUcsv.cpp.s"
+	C:\PROGRA~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\RaV\Desktop\zadanie_rekrutacyjne_1\programs\IMU_simulator\src\IMUcsv.cpp -o CMakeFiles\IMU_simulator.dir\src\IMUcsv.cpp.s
 
 CMakeFiles/IMU_simulator.dir/src/SocketClient.cpp.obj: CMakeFiles/IMU_simulator.dir/flags.make
 CMakeFiles/IMU_simulator.dir/src/SocketClient.cpp.obj: CMakeFiles/IMU_simulator.dir/includes_CXX.rsp
@@ -146,18 +146,18 @@ CMakeFiles/IMU_simulator.dir/src/SocketClient.cpp.s: cmake_force
 # Object files for target IMU_simulator
 IMU_simulator_OBJECTS = \
 "CMakeFiles/IMU_simulator.dir/src/main.cpp.obj" \
-"CMakeFiles/IMU_simulator.dir/src/IMU.cpp.obj" \
 "CMakeFiles/IMU_simulator.dir/src/IMUsimulator.cpp.obj" \
 "CMakeFiles/IMU_simulator.dir/src/ReadCSV.cpp.obj" \
+"CMakeFiles/IMU_simulator.dir/src/IMUcsv.cpp.obj" \
 "CMakeFiles/IMU_simulator.dir/src/SocketClient.cpp.obj"
 
 # External object files for target IMU_simulator
 IMU_simulator_EXTERNAL_OBJECTS =
 
 IMU_simulator.exe: CMakeFiles/IMU_simulator.dir/src/main.cpp.obj
-IMU_simulator.exe: CMakeFiles/IMU_simulator.dir/src/IMU.cpp.obj
 IMU_simulator.exe: CMakeFiles/IMU_simulator.dir/src/IMUsimulator.cpp.obj
 IMU_simulator.exe: CMakeFiles/IMU_simulator.dir/src/ReadCSV.cpp.obj
+IMU_simulator.exe: CMakeFiles/IMU_simulator.dir/src/IMUcsv.cpp.obj
 IMU_simulator.exe: CMakeFiles/IMU_simulator.dir/src/SocketClient.cpp.obj
 IMU_simulator.exe: CMakeFiles/IMU_simulator.dir/build.make
 IMU_simulator.exe: CMakeFiles/IMU_simulator.dir/linkLibs.rsp
