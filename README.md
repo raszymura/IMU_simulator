@@ -26,6 +26,5 @@ Cmake
 `make`
 
 ## Run program
-`cd IMU_simulator`
-`cd build`
-`.\IMU_simulator`
+
+The program is designed to be opened by the application: https://github.com/raszymura/FREE-FALL_detector
